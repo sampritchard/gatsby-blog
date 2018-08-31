@@ -65,7 +65,7 @@ const TemplateWrapper = ({ children }) => (
                 />
                 <Sidebar
                   title="Social"
-                  description="Instagram, Email, LinkedIn"
+                  description="Instagram, Email"
                 />
               </div>
             </div>
