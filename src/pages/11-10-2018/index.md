@@ -26,7 +26,9 @@ I understand that from a psychological point of view, having a direct impact by 
 
 By focussing on these tiny changes that we can make, the impact is pretty much nonexistent. Why are we focussing so heavily on plastic straws rather than reducing the fishing in the oceans?
 
-I keep seeing signs saying ‘Save our oceans, stop using plastic’, or my favourite ironic sign along the River Thames: ‘For fishes sake, stop throwing plastic’. I would argue, for fishes sake, lets stop eating the fish!
+I keep seeing signs saying ‘Save our oceans, stop using plastic’, or my favourite ironic sign along the River Thames: ‘For fishes sake, stop throwing plastic’. I would argue, for fishes sake, lets stop eating the fish?
+
+![fish](https://pbs.twimg.com/media/DlxjWAtX0AAD0l7.jpg)
 
 --- 
 
