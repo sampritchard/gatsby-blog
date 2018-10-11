@@ -39,4 +39,6 @@ The key takeaways I got from the past 9 months of learning and self-developing w
   - Try and focus where your strengths lie (mine isn’t necessarily pure coding, but its communication and documentation which allows me to stand out from other professionals in my field).
   - Have a strong support network - tell your close friends, family, who won’t put pressure on and be supportive. Don’t tell people who will do the opposite (I lied to plenty of people who I couldn’t be bothered with the ‘Whattttt why would you do that?! Thats too hard’, etc, etc)
 
-For any questions, advice or thoughts - please let me know!
+  ---
+
+For any questions, advice or thoughts - please [email](mailto:sampritchard@msn.com?Subject=Hello) or DM on [insta](https://www.instagram.com/howhardpritchard/)
